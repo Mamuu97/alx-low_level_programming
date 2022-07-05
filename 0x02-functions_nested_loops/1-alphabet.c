@@ -1,10 +1,10 @@
-1#include "main.h"
+1 #include "main.h"
 2
 3/**
 4* print_alphabet -> prints the lowercase alphabets
 5*/
 6
-7void print_alphabet(void)
+7 void print_alphabet(void)
 8{
 9       int j;
 10
